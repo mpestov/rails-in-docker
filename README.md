@@ -1,9 +1,7 @@
-# README
-
 Rails-приложение созданное в процессе написания статьи:
 
 [https://mpestov.com/posts/rails-in-docker](https://mpestov.com/posts/rails-in-docker)
 
-# Запуск
+## Запуск
 
     $ docker-compose up
